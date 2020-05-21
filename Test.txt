@@ -1,11 +1,7 @@
 Ясмог установить и настроить это клиент названный SourceTree.
 Это была битва Глюка с Глючащим разумом.
 Но я победил.
-<<<<<<< HEAD
-Not so coll changes
-=======
-Master changes/
-Will do tha main work
-Add Function
-Add some procedures
->>>>>>> master
+
+void Foo()
+{ in a = 1; }
+
