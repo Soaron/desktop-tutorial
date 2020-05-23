@@ -5,6 +5,13 @@ void foo(){
 }
 
 void MSDestroy(){
+	
 	GO = MS.GameObject;
 	Destroy(GO);
+	GO.PlayAnimation();
+	
+}
+
+void ChangePosition(GameObject GO, Vector3 newPos){
+	GO.transform.Position = newPos;
 }

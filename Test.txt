@@ -5,3 +5,5 @@ Master changes/
 Will do tha main work
 Add Function
 Add some procedures
+
+Del some functions
