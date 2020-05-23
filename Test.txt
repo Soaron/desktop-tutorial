@@ -7,3 +7,8 @@ Add Function
 Add some procedures
 
 Del some functions
+=======
+
+void Foo()
+{ in a = 1; }
+
