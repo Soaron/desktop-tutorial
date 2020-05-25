@@ -3,3 +3,9 @@ Enemy Ai will be here
 Some changes to speed and time of reaction
 
 Need to work
+Startting.
+
+Instantiating GO Enemy
+Setting position
+Setting flags
+Activating Ai
