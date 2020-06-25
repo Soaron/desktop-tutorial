@@ -1,11 +1,3 @@
-# Welcome to GitHub Desktop!
-
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
-TestTest Test
-
-Redacting Read me file
 
 # Простой USB осциллограф
 Очень понравился [_"Простой USB осциллограф" от Stanson_][id1], и особенно понравились 
@@ -33,17 +25,18 @@ Redacting Read me file
 так и для PIC 18F2550, которое например, будет исключать стробоскопический 
 эффект при различных частотах развёртки осциллографа.
 
-Готовые проекты лежат [здесь][id3]
+Выбрать один из проектов можно [здесь][id3]
+Скачать прошивку для PIC 18F2550 [здесь][id4]
+Программа для готового устройства [здесь][id5]
 
-Программа лежит [здесь][id4]
-
-Исходники прошивки и мордочки осциллографа [здесь][id5]
+Исходники прошивки и мордочки осциллографа [здесь][id6]
 
 Проект открытый, а потому "Твори выдумывай пробуй!"
 
 
 [id1]:http://www.stanson.ch/index.php?page=proj&proj=USB-oscope
 [id2]:https://hobby-research.at.ua/publ/razrabotki/izmerenija/neil_scope_3/4-1-0-42
-[id3]:Done/
-[id4]:https://github.com/Soaron/Oscill/tree/master/Done
-[id5]:https://github.com/Soaron/Oscill/tree/master/Sources
+[id3]:Done/HardWare/
+[id4]:Done/Formware/usb-oscope v1.03.hex
+[id5]:Done/Soft/
+[id5]:Sources/

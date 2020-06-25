@@ -1,0 +1,14 @@
+C:\GitProjects\GitHub\C#Oscill\C-Oscill\Software\CS_Oscill\CS_Oscill\CS_Oscill\bin\Release\CS_Oscill.exe.config
+C:\GitProjects\GitHub\C#Oscill\C-Oscill\Software\CS_Oscill\CS_Oscill\CS_Oscill\bin\Release\CS_Oscill.exe
+C:\GitProjects\GitHub\C#Oscill\C-Oscill\Software\CS_Oscill\CS_Oscill\CS_Oscill\bin\Release\CS_Oscill.pdb
+C:\GitProjects\GitHub\C#Oscill\C-Oscill\Software\CS_Oscill\CS_Oscill\CS_Oscill\bin\Release\alglibnet2.dll
+C:\GitProjects\GitHub\C#Oscill\C-Oscill\Software\CS_Oscill\CS_Oscill\CS_Oscill\bin\Release\LibUsbDotNet.LibUsbDotNet.dll
+C:\GitProjects\GitHub\C#Oscill\C-Oscill\Software\CS_Oscill\CS_Oscill\CS_Oscill\bin\Release\LibUsbDotNet.LibUsbDotNet.pdb
+C:\GitProjects\GitHub\C#Oscill\C-Oscill\Software\CS_Oscill\CS_Oscill\CS_Oscill\obj\Release\CS_Oscill.Form1.resources
+C:\GitProjects\GitHub\C#Oscill\C-Oscill\Software\CS_Oscill\CS_Oscill\CS_Oscill\obj\Release\CS_Oscill.Properties.Resources.resources
+C:\GitProjects\GitHub\C#Oscill\C-Oscill\Software\CS_Oscill\CS_Oscill\CS_Oscill\obj\Release\CS_Oscill.UserColorSchemeSettings.resources
+C:\GitProjects\GitHub\C#Oscill\C-Oscill\Software\CS_Oscill\CS_Oscill\CS_Oscill\obj\Release\CS_Oscill.csproj.GenerateResource.cache
+C:\GitProjects\GitHub\C#Oscill\C-Oscill\Software\CS_Oscill\CS_Oscill\CS_Oscill\obj\Release\CS_Oscill.csproj.CoreCompileInputs.cache
+C:\GitProjects\GitHub\C#Oscill\C-Oscill\Software\CS_Oscill\CS_Oscill\CS_Oscill\obj\Release\CS_Oscill.csproj.CopyComplete
+C:\GitProjects\GitHub\C#Oscill\C-Oscill\Software\CS_Oscill\CS_Oscill\CS_Oscill\obj\Release\CS_Oscill.exe
+C:\GitProjects\GitHub\C#Oscill\C-Oscill\Software\CS_Oscill\CS_Oscill\CS_Oscill\obj\Release\CS_Oscill.pdb
