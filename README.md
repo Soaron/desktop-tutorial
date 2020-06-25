@@ -44,6 +44,6 @@ Redacting Read me file
 
 [id1]:http://www.stanson.ch/index.php?page=proj&proj=USB-oscope
 [id2]:https://hobby-research.at.ua/publ/razrabotki/izmerenija/neil_scope_3/4-1-0-42
-[id3]:\Done\
+[id3]:Done/
 [id4]:https://github.com/Soaron/Oscill/tree/master/Done
 [id5]:https://github.com/Soaron/Oscill/tree/master/Sources
