@@ -39,6 +39,6 @@
 [id1]:http://www.stanson.ch/index.php?page=proj&proj=USB-oscope
 [id2]:https://hobby-research.at.ua/publ/razrabotki/izmerenija/neil_scope_3/4-1-0-42
 [id3]:Done/HardWare/
-[id4]:Done/Firmware/usb-oscope v1.03.hex
+[id4]:(Done/Firmware/usb-oscope v1.03.hex)
 [id5]:Done/Soft/
 [id5]:Sources/
