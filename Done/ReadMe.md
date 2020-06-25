@@ -3,8 +3,7 @@
 
 Примеры работы:
 Меандр 4 kHz
-![Gen4kHz][g4kHz]
-![Soft4kHz][s4kHz]
+![Gen4kHz][g4kHz] ![Soft4kHz][s4kHz]
 
 
 [id1]:404.html
