@@ -53,7 +53,13 @@
 
 ### Проект открытый, а потому "Твори выдумывай пробуй!"
 
+<p align=rigth>
+Ular - Hardware
+Soaron - Software & Firmware
 2019 - 2020.
+</p>
+
+
 
 [Screens_Oscill]:Screens/Oscill.png
 [Screens_150]:Screens/150.jpg
