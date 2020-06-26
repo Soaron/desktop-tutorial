@@ -55,7 +55,11 @@
 
 <p align="right">
 Ular - Hardware
+</p>
+<p align="right">
 Soaron - Software & Firmware
+</p>
+<p align="right">
 2019 - 2020.
 </p>
 
