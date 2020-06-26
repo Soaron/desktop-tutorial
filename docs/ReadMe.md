@@ -1,6 +1,6 @@
 
 # Простой USB осциллограф
-![][Screens/Oscill.png]
+![][Screens_Oscill]
 
 Очень понравился [_"Простой USB осциллограф" от Stanson_][id_Stanson], и особенно понравились 
 скриншоты осциллограмм которые под линуксом.
@@ -10,7 +10,7 @@
 очень сложно. Сложность настройки сводила на нет всю привлекательную 
 простоту конструкции. Но машинка работала и убивать её не хотелось. 
 Был найден и использован аттенюатор от древнего осциллографа.
-![][Screens/150.jpg]
+![][Screens_150]
 
 После некоторых изысканий была найдена прекрасно разработанная схема 
 входного аттенюатора осциллографа [_NeilScope3_][id_NeilScope]. 
@@ -28,6 +28,7 @@
 Также скорректирована программа визуального отображения АЧХ. 
 И настройки цветов экрана и осциллограммы.
 [Архив с программой][id_soft]
+
 Для работы программы необходимы: 
 * драйвера [libusb-win32][id_driver]
 * .Net Framework 4.6
@@ -69,16 +70,17 @@
 
 Исходники прошивки и мордочки осциллографа ищем на GitHub [здесь][id_GitHub].
 
-###Проект открытый, а потому "Твори выдумывай пробуй!"
+### Проект открытый, а потому "Твори выдумывай пробуй!"
 
-
+[Screens_Oscill]:Screens/Oscill.png
+[Screens_150]:Screens/150.jpg
 [id_Stanson]:http://www.stanson.ch/index.php?page=proj&proj=USB-oscope
 [id_NeilScope]:https://hobby-research.at.ua/publ/razrabotki/izmerenija/neil_scope_3/4-1-0-42
 [id_hex]:Archive/usb-oscope_v1.03.hex
 [id_soft]:Archive/Soft.rar
 [id_driver]:https://sourceforge.net/projects/libusb-win32/
 [id_GitHub]:https://github.com/Soaron/Oscill
-[id_Making]:
-[id1]:
-[id2]:
-[id3]:
+[id_Making]:Making.md
+[id1]:id1.md
+[id2]:id2.md
+[id3]:id3.md
