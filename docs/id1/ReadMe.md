@@ -35,5 +35,5 @@
 [picB]:Screens/DIP-SMD-Back.png
 [picD]:Screens/S5450008.JPG
 [picSoft]:Screens/S5310003.JPG
-[DIP_Lay]:DIP/Oscilloskope-18F2550-DIP.lay
-[SMD_Lay]:SMD/Oscilloskope-18F2550-50K.lay
+[DIP_Lay]:Screens/DIP/Oscilloskope-18F2550-DIP.lay
+[SMD_Lay]:Screens/SMD/Oscilloskope-18F2550-50K.lay
