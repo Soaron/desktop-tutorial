@@ -25,14 +25,11 @@
 так и для PIC 18F2550, которое например, будет исключать стробоскопический 
 эффект при различных частотах развёртки осциллографа.
 
-
 Выбрать один из проектов можно [здесь][id3].
 
 Скачать прошивку для PIC 18F2550 [здесь][id4].
 
 Программа для готового устройства [здесь][id5].
-
-
 
 Исходники прошивки и мордочки осциллографа [здесь][id6].
 
@@ -41,7 +38,7 @@
 
 [id1]:http://www.stanson.ch/index.php?page=proj&proj=USB-oscope
 [id2]:https://hobby-research.at.ua/publ/razrabotki/izmerenija/neil_scope_3/4-1-0-42
-[id3]:Done/HardWare/
-[id4]:Done/Firmware/usb-oscope%20v1.03.hex
-[id5]:Done/Soft/
-[id6]:Sources/
+[id3]:../Done/HardWare/
+[id4]:../Done/Firmware/usb-oscope%20v1.03.hex
+[id5]:../Done/Soft/
+[id6]:../Sources/
