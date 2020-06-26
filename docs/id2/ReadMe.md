@@ -11,16 +11,17 @@
 Делитель нуждается в небольшой корректировке амплитудно частотной характеристики 
 (АЧХ) при помощи двух конденсаторов в зависимости от чувствительности.
 
-[Схема][Scheme] в формате sPlan7.0
+* [Схема][Scheme] в формате sPlan7.0
 В схеме использован двухстабильный дистанционный переключатель:
 __G6KU-2G-Y__
 Вместо него можно использовать:
 __IM41GR__
 
-[Разводка][Lay] платы в формате SprintLayout 6.0
-
-[Файл прошивки 1.03.hex][FirmWare]
-Прошивал при помощи PikKit2
+* [Разводка][Lay] платы в формате SprintLayout 6.0
+* [Файл прошивки 1.03.hex][FirmWare]
+Прошивал при помощи PicKit2
+* [Архив с программой][Soft] интерфейса осциллографа
+* [Ссылка на драйвера][Driver] libusb-win32 (Sourceforge.net)
 
 Готовое устройство 
 ![picT][PicT]
@@ -35,3 +36,5 @@ __IM41GR__
 [picB]:Screens/Back.JPG
 [Lay]:Screens/AD8066-SOT23-5.lay
 [FirmWare]:Screens/usb-oscope_v1.03.hex
+[Soft]:Screens/Soft.rar
+[Driver]:https://sourceforge.net/projects/libusb-win32/
