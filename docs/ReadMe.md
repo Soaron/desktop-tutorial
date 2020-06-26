@@ -53,7 +53,7 @@
 
 ### Проект открытый, а потому "Твори выдумывай пробуй!"
 
-<p align=rigth>
+<p align="right">
 Ular - Hardware
 Soaron - Software & Firmware
 2019 - 2020.
