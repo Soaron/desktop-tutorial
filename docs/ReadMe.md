@@ -66,6 +66,7 @@
 также привествуется более совершенное программное обеспечение, как для винды 
 так и для PIC 18F2550, которое например, будет исключать стробоскопический 
 эффект при различных частотах развёртки осциллографа.
+
 ***
 
 Исходники прошивки и мордочки осциллографа ищем на GitHub [здесь][id_GitHub].
@@ -80,7 +81,7 @@
 [id_soft]:Archive/Soft.rar
 [id_driver]:https://sourceforge.net/projects/libusb-win32/
 [id_GitHub]:https://github.com/Soaron/Oscill
-[id_Making]:Making.md
-[id1]:id1.md
-[id2]:id2.md
-[id3]:id3.md
+[id_Making]:Making/
+[id1]:id1/
+[id2]:id2/
+[id3]:id3/
