@@ -29,6 +29,10 @@
 Развертка, Оффсет и Синхронизация.
 
 
+[Назад][id_Back]
+
+
+
 [id_Stanson]:http://www.stanson.ch/index.php?page=proj&proj=USB-oscope
 [Scheme]:Screens/USB-oscope.png
 [picT]:Screens/DIP-SMD-Top.png
@@ -37,3 +41,4 @@
 [picSoft]:Screens/S5310003.JPG
 [DIP_Lay]:Screens/DIP/Oscilloskope-18F2550-DIP.lay
 [SMD_Lay]:Screens/SMD/Oscilloskope-18F2550-50K.lay
+[id_Back]:../
